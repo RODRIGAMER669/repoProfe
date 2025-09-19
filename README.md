@@ -15,4 +15,4 @@ Descarga el código del proyecto ```git@github.com:julparper/jfx2_mvcsimple.git`
 >Agrega los breakpoints que estimes oportunos para entender el funcionamiento de toda la aplicación. Prueba a cambiar todo lo que estimes oportuno para observar como afectan los cambios en la aplicación.
 
 
-Esto es una prueba
+
